@@ -1,25 +1,27 @@
-待補充：哪裡被跳過和被跳過的原文
-
 待補充：來源註腳
 
 ---
 
-Demoscene 是一種圍繞創作「demo」—能夠製造影音的可執行檔— 爲主的電腦藝術次文化。這些 demo 和其他相關作品炫耀作者的程式、設計或音樂技能，常投稿到一種稱爲「demoparty」的聚會，參加者間投票排名相互較勁。
+Demoscene 是一種圍繞創作「demo」—能夠製造影音的可執行檔— 爲主的電腦藝術次文化。(略 1) 這些 demo 和其他相關作品炫耀作者的程式、設計或音樂技能，常投稿到一種稱爲「demoparty」的聚會，參加者間投票排名相互較勁。
 
 Demoscene 起源於 1980 年代初個人電腦流行，相映流行的破解軟體。破解團隊篡改卡帶內容以規避複製偵測機制，並在複製出的盜版卡帶中加入自製動畫 ("cracktro")，以便宣傳自己，團隊間開始比較其視覺表現。這種動畫 (稱作「intro」或「demo」) 的創作從破解軟體和電競文化獨立出來變成一個新的嗜好。
 
 Demo 在坊間依檔案大小分成幾種子類別，其中 64k 和 4k 最常見，分別限制在 65536 和 4096 byte 以內。也可以依執行主機分類，例如 Atari 8000、Commodore 64 等 8-bit 電腦，Amiga、Atari ST 等 16-bit 電腦，挑戰創作者們突破當初這些機器設計時預想的能力。
 
+略 1："The purpose of a demo is to show off programming, visual art, and musical skills."
+
 # 歷史
 
 Display hack(螢幕保護程式) 可以說是 demo 或 demo 效果最早的雛形，可追溯到 1950 年代初期，距 demoscene 誕生還有幾十年。
 
-Demoscene 用語當中的「demo」起源於破解團隊在破解的軟體中塞入的動畫 (crack screen)。最早出現在 1980 年代初的 Apple II 上，起初只有文字標示破解團隊及成員暱稱。靜態畫面慢慢演化成動態效果 —有時包含音樂— 的入場動畫。後來破解團隊把這種動畫提到軟體之外，變成獨立的執行檔，稱作 "letter"、"message" 等，至今廣泛稱爲 "demo"。
+Demoscene 用語當中的「demo」起源於破解團隊在破解的軟體中塞入的動畫 (crack screen)，最早出現在 1980 年代初的 Apple II 上。起初只有文字標示破解團隊及成員暱稱。靜態畫面慢慢演化成動態效果，甚至加入音樂的入場動畫。後來破解團隊把這種動畫提到軟體之外，變成獨立的執行檔，稱作 "letter"、"message" 等，至今廣泛稱爲 "demo"。
 
 1980 年代，Atari 公司創作帶有影音效果、循環播放的 demo 在店內展示 Atari 400/800 主機的能耐。
 Atari 公司在 1985 年的 Consumer Electronics Show 上用當時最新的 8-bit 系統播放了一部 demo，在 3D 的走路機器人和各自帶有音樂的太空船間來回切換，以 Atari logo 做過場，比當時其他主機畫出更大的物件。這部 demo 的執行檔也公開發表。同一年，Commodore 的 Amiga 則發表了半透明陰影和紅白格紋的球體，是展現 Amiga 硬體能耐的重要 demo。
 
-Charles Deenen 在 1985 年發表了 "類-demo" 的音樂專輯，精選現有音樂配上自製的動畫。次年 Demoscene 正式誕生。荷蘭團隊 "1001 Crew" 和 "The Judges" 都在 1986 年發表帶有原創視覺、複雜音樂、利用硬體特性的作品。同一時間，其他創作者如 Antony Crowther 的作品開始在英國的 Compunet 流通。
+Charles Deenen 在 1985 年發表了 "類-demo" 的音樂專輯，精選現有音樂配上自製的動畫。次年 Demoscene 正式誕生。荷蘭團隊 "1001 Crew" 和 "The Judges" 都在 1986 年發表帶有原創視覺、複雜音樂 (改 1)、利用硬體特性的作品。同一時間，其他創作者如 Antony Crowther 的作品開始在英國的 Compunet 流通。
+
+改 1："music involving more than just casual work" 直譯是 "不隨便的音樂" 這也太主觀？？
 
 # 文化
 
@@ -48,7 +50,7 @@ Demoscene 主要活躍於歐洲，並強調團隊或個人之間技術和美感�
 
 # Demoparty
 
-Demoparty 是一種 demoscene 及電腦文化愛好者的聚會，活動中舉辦 demo、圖像、音樂等作品競賽 ("compo"，"competition" 的簡稱)。聚會大部分舉辦在週末，熱門的競賽類別排在晚上播出，而 "demo" 通常是最熱門的類別。
+Demoparty 是一種 demoscene 及電腦文化愛好者的聚會，活動中舉辦 demo、圖像、音樂等作品競賽 ("compo"，"competition" 的簡稱)。聚會大部分舉辦在週末，給參加者時間社交，熱門的競賽類別排在晚上用投影幕和音響播出，而 "demo" 通常是最熱門的類別。
 
 最大的 demoparty 是 Assembly。而 The Gathering 近年比較偏向玩家聚會。
 
@@ -155,13 +157,17 @@ Demoscene 作爲甚至在流行國家都算相對小眾的藝術創作，仍然�
 
 歐洲很多遊戲工程師、繪師、作曲家都來自 demoscene 背景，帶着製作 demo 學到的技術、工作方式和心法開發遊戲。例如「英雄本色」的開發者綠美迪娛樂，一間芬蘭遊戲公司，有四位創始成員來自一個叫 Future Crew 的個人電腦 demo 團隊，很多員工也曾經或持續參與芬蘭 demoscene。有時候開發者受 demoscene 啓發但本身不是 demoscene 成員：Will Wright 說 Maxis 工作室的「Spore」這款大量使用程序化生成技術的遊戲受到 demoscene 很大的影響；John Carmack 在 2011 年 QuakeCon 說他「很敬佩」64k 的創作者，並以此說明有時候故意加上限制可以帶來創意。Penny Arcade 的員工 Jerry Holkins 聲稱「長久愛着」demoscene，認爲「值得花時間認識一下」。
 
-有些電腦藝術創作也和 demoscene 關係深遠。例如 demoscene 作曲家喜歡的 tracker 音樂原本來自 Amiga 遊戲開發，作曲家 Adam Fielding 聲稱曾參與 tracker/demoscene 社群。目前 tracker 音樂社群已經和狹義 demoscene 社群疏遠。Demoscene 成員也常創作像素畫。許多 creative coding 工具如 Shadertoy 和 Three.js 也來自 demoscene。
+有些電腦藝術創作也和 demoscene 關係深遠。例如 demoscene 作曲家喜歡的 tracker 音樂原本來自 Amiga 遊戲開發，作曲家 Adam Fielding 聲稱曾參與 tracker/demoscene 社群。目前 tracker 音樂社群已經和狹義 demoscene 社群疏遠。Demoscene 成員也常創作像素畫 (改 2)。詳見 [artscene](https://en.wikipedia.org/wiki/Computer_art_scene)。許多 creative coding 工具如 Shadertoy 和 Three.js 也來自 demoscene。
 
-近年來，桌上型電腦的性能以倍數級成長，大部分工程師不再需要考慮硬體限制。Demoscene 創作者則持續鑽研低配硬體，有些社群成員因爲這種罕見技能，在手持式主機和手機遊戲開發找到工作。這些平台的運算能力和配備 (如較低的解析度、較小的硬碟或記憶體空間) 跟早期的電腦相似。例如「憤怒鳥」的首席設計師 Jaakko Iisalo 是 1990 年代 demoscene 的知名成員；Unity 引擎 iPhone、安卓、任天堂 Switch 的技術領導 Renaldas Zioma 和 Erik Hemming 是「Suicide Barbie」(2007) —PlayStation Portable 上執行的 demo— 的作者。
+近年來，桌上型電腦的性能以倍數級成長，大部分工程師不再需要考慮硬體限制。Demoscene 創作者則持續鑽研低配硬體，有些 (改 3) 社群成員因爲這種罕見技能，在手持式主機和手機遊戲開發找到工作。這些平台的運算能力和配備 (如較低的解析度、較小的硬碟或記憶體空間) 跟早期的電腦相似。例如「憤怒鳥」的首席設計師 Jaakko Iisalo 是 1990 年代 demoscene 的知名成員；Unity 引擎 iPhone、安卓、任天堂 Switch 的技術領導 Renaldas Zioma 和 Erik Hemming 是「Suicide Barbie」(2007) —PlayStation Portable 上執行的 demo— 的作者。
 
-有些人致力推廣 demo 這種藝術形式。例如透過 demo show、demo 展示廳、介紹 demoscene 的書籍、甚至電視節目。
+有些人致力 (改 4) 推廣 demo 這種藝術形式。例如透過 demo show、demo 展示廳、介紹 demoscene 的書籍、甚至電視節目。
 
 瑞典 Linköping 的 IT-ceum 博物館有一個 demoscene 的展區。
+
+改 2："A form of static computer graphics where demosceners have traditionally excelled is pixel art" 原文說自己很強
+改 3："many demosceners have been able to apply their niche skills" 原文說 "很多"
+改 4："Some attempts have been made" 原文說 "有人想" 而沒有 "致力" 的意思
 
 ## 遊戲產業
 
