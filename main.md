@@ -103,6 +103,6 @@ Demoscene 作爲甚至在流行國家都算相對小眾的藝術創作，仍然�
 
 ## 遊戲產業
 
-根據 4players.de 報導，2007 年多位 demoscene 社群成員在遊戲產業工作，包含 ... 等公司。*待修
+根據 4players.de 報導，2007 年多位 demoscene 社群成員在遊戲產業工作，包含藝電戴斯（EA DICE）、Starbreeze Studios、Ascaron、49Games、綠美迪、Housemarque Oy、IO Interactive、Techland S.A.、Lionhead Studios、Bugbear Entertainment Oy、Digital Reality Software Kft(前 Amnesty Design)、Guerrilla Games、Akella 等公司都有 demoscene 員工。
 
-1980 年至 2000 年間許多遊戲使用 demoscene 社群也喜歡創作的 Tracker 音樂。
+1980 年至 2000 年間許多遊戲使用 demoscene 社群也喜歡創作的 Tracker 音樂，如「百戰小旅鼠」、「Jazz Jackrabbit」、「One Must Fall: 2097」、「Crusader: No Remorse」、魔域幻境系列、「駭客入侵」、「寶石方塊」、「黑客精英」。
