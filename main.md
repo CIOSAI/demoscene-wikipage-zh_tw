@@ -8,7 +8,7 @@ Demoscene 起源於 1980 年代初個人電腦流行，相映流行的破解軟�
 
 Demo 在坊間依檔案大小分成幾種子類別，其中 64k 和 4k 最常見，分別限制在 65536 和 4096 byte 以內。也可以依執行主機分類，例如 Atari 8000、Commodore 64 等 8-bit 電腦，Amiga、Atari ST 等 16-bit 電腦，挑戰創作者們突破當初這些機器設計時預想的能力。
 
-略 1："The purpose of a demo is to show off programming, visual art, and musical skills."
+- 略 1："The purpose of a demo is to show off programming, visual art, and musical skills."
 
 # 歷史
 
@@ -21,7 +21,7 @@ Atari 公司在 1985 年的 Consumer Electronics Show 上用當時最新的 8-bi
 
 Charles Deenen 在 1985 年發表了 "類-demo" 的音樂專輯，精選現有音樂配上自製的動畫。次年 Demoscene 正式誕生。荷蘭團隊 "1001 Crew" 和 "The Judges" 都在 1986 年發表帶有原創視覺、複雜音樂 (改 1)、利用硬體特性的作品。同一時間，其他創作者如 Antony Crowther 的作品開始在英國的 Compunet 流通。
 
-改 1："music involving more than just casual work" 直譯是 "不隨便的音樂" 這也太主觀？？
+- 改 1："music involving more than just casual work" 直譯是 "不隨便的音樂" 這也太主觀？？
 
 # 文化
 
@@ -165,9 +165,9 @@ Demoscene 作爲甚至在流行國家都算相對小眾的藝術創作，仍然�
 
 瑞典 Linköping 的 IT-ceum 博物館有一個 demoscene 的展區。
 
-改 2："A form of static computer graphics where demosceners have traditionally excelled is pixel art" 原文說自己很強
-改 3："many demosceners have been able to apply their niche skills" 原文說 "很多"
-改 4："Some attempts have been made" 原文說 "有人想" 而沒有 "致力" 的意思
+- 改 2："A form of static computer graphics where demosceners have traditionally excelled is pixel art" 原文說自己很強
+- 改 3："many demosceners have been able to apply their niche skills" 原文說 "很多"
+- 改 4："Some attempts have been made" 原文說 "有人想" 而沒有 "致力" 的意思
 
 ## 遊戲產業
 
