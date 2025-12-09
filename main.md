@@ -126,7 +126,15 @@ Demoparty 是一種 demoscene 及電腦文化愛好者的聚會，活動中舉�
 | Saturne Party | 法國 巴黎 | 1993-1997 | |
 | Silly Venture | 波蘭 格但斯克 | 2000、2010-2014、2016-2019、2021 | 本來只做 Atari，2020 夏天後開放其他平台 |
 | Solskogen | 挪威 Flateby | 2002-2020 | 本來在奧斯（挪威），2013 年後搬到 Flateby，近兩百位參加者 |
-| | | | Syntax 墨爾本最大 (也是目前唯一) 的 demoparty |
+| Somewhere in Holland | 荷蘭 奈梅亨 | 1993、1995 | 辦在荷蘭 |
+| Sundown | 英國 艾希特 | 2005-2016 | 繼英國 1999 年斷炊後第一次重燃的 demoparty |
+| Syntax | 澳洲 墨爾本 | 2007- | 墨爾本最大 (也是目前唯一) 的 demoparty |
+| Takeover | 荷蘭 恩荷芬 | 1997-2001 | 第一屆跟 X 合辦，當屆全名叫 X'97 Takeover |
+| The Ultimate Meeting | 德國 格里斯海姆 | 1999-2013 | 本來是 The Party 的暖身聚會，後來 The Party 停辦，因此改日到跟 The Party 同日期。德國最大的 demoparty 之一 |
+| VIP | 法國 里昂 | 1999-2002、2008- | 由 PoPsY TeAm 主辦，法國最長壽的純 demoparty |
+| Wired | 比利時 蒙斯 | 1994-1998 | |
+| X | 荷蘭 索默倫 | 1995- | 專注 Commodore 64，約兩年一次。上一次是 2023 年六月二到四號。1995 和 1996 年曾開放個人電腦類別，1997 年跟 Takeover 合體 |
+| Xenium | 波蘭 卡托維茲 | 1999、2019- | 繼承 Riverwash |
 
 # 64K intro
 
