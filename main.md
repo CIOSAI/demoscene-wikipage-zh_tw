@@ -1,6 +1,6 @@
 Demoscene 是一種圍繞創作「demo」—能夠製造影音的可執行檔— 爲主的電腦藝術次文化。(略 1) 這些 demo 和其他相關作品炫耀作者的程式、設計或音樂技能，常投稿到一種稱爲「demoparty」的聚會，參加者間投票排名相互較勁。
 
-Demoscene 起源於 1980 年代初個人電腦流行，相映流行的破解軟體[¹](https://web.archive.org/web/20200517230526/http://demoscene-the-art-of-coding.net/the-demoscene/)。破解團隊篡改卡帶內容以規避複製偵測機制，並在複製出的盜版卡帶中加入自製動畫 ("cracktro")，以便宣傳自己，團隊間開始比較其視覺表現[²](https://web.archive.org/web/20210524005117/http://widerscreen.fi/numerot/2014-1-2/crackers-became-us-demosceners/)。這種動畫 (稱作「intro」或「demo」) 的創作從破解軟體和電競文化獨立出來[³]()變成一個新的嗜好。
+Demoscene 起源於 1980 年代初個人電腦流行，相映流行的破解軟體[¹](https://web.archive.org/web/20200517230526/http://demoscene-the-art-of-coding.net/the-demoscene/)。破解團隊篡改卡帶內容以規避複製偵測機制，並在複製出的盜版卡帶中加入自製動畫 ("cracktro")，以便宣傳自己，團隊間開始比較其視覺表現[²](https://web.archive.org/web/20210524005117/http://widerscreen.fi/numerot/2014-1-2/crackers-became-us-demosceners/)。這種動畫 (稱作「intro」或「demo」) 的創作從破解軟體和電競文化獨立出來[³](https://github.com/CIOSAI/demoscene-wikipage-zh_tw/blob/main/main.md#%E8%A8%BB%E8%85%B3)變成一個新的嗜好。
 
 Demo 在坊間依檔案大小分成幾種子類別，其中 64k 和 4k 最常見，分別限制在 65536 和 4096 byte 以內。也可以依執行主機分類，例如 Atari 8000、Commodore 64 等 8-bit 電腦，Amiga、Atari ST 等 16-bit 電腦，挑戰創作者們突破當初這些機器設計時預想的能力。
 
@@ -26,7 +26,7 @@ Demoscene 主要活躍於歐洲[⁹](https://doi.org/10.1007%2F978-3-642-03757-3
 2. 良好人品
 3. 積極付出而非等人協助
 
-有學者認爲這種既競爭又互相幫忙的文化類似於早期電腦學界的黑客文化[⁹](https://doi.org/10.1007%2F978-3-642-03757-3_30) [¹⁰]()。Demoscene 不尋求也不受到主流文化的關注()，2010 的統計社群人數約爲一萬人[¹¹](https://web.archive.org/web/20160805160342/http://www.isea2010ruhr.org/files/redaktion/pdf/isea2010_proceedings_p11_hartmann.pdf)。
+有學者認爲這種既競爭又互相幫忙的文化類似於早期電腦學界的黑客文化[⁹](https://doi.org/10.1007%2F978-3-642-03757-3_30) [¹⁰](https://github.com/CIOSAI/demoscene-wikipage-zh_tw/blob/main/main.md#%E8%A8%BB%E8%85%B3)。Demoscene 不尋求也不受到主流文化的關注[³](https://github.com/CIOSAI/demoscene-wikipage-zh_tw/blob/main/main.md#%E8%A8%BB%E8%85%B3)，2010 的統計社群人數約爲一萬人[¹¹](https://web.archive.org/web/20160805160342/http://www.isea2010ruhr.org/files/redaktion/pdf/isea2010_proceedings_p11_hartmann.pdf)。
 
 初期的較勁以突破記錄爲主，例如 bob 數 (螢幕一幀的 blitter object 量) 或 Commodore 64 上的 DYCP (英文 "Different Y Character Position"，利用水平線渲染順序畫出多於 8 個角色)。現在則是由 demoparty 舉辦競賽類別，也有 diskmag 刊登熱門創作者排行。
 
@@ -40,7 +40,7 @@ Demoscene 主要活躍於歐洲[⁹](https://doi.org/10.1007%2F978-3-642-03757-3
 
 創作者常以工程師爲首，集結設計師、音樂家及 swapper (卡帶郵件往來的負責人) 組成團隊。
 
-團隊有正式名稱，成員也常把團隊名稱以 "暱稱/團隊" 或 "暱稱 of 團隊" 的格式加到暱稱裡。³
+團隊有正式名稱，成員也常把團隊名稱以 "暱稱/團隊" 或 "暱稱 of 團隊" 的格式加到暱稱裡。[³](https://github.com/CIOSAI/demoscene-wikipage-zh_tw/blob/main/main.md#%E8%A8%BB%E8%85%B3)
 
 兩個主要在 Commodore 64 平臺創作的荷蘭 demo 團隊 "1001 Crew" 和 "The Judges" 被認爲是最早的 demo 團隊。
 
